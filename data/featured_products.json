@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5,
+    "name": "Infinity - JBL Tranz",
+    "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "price": 20,
+    "imageCover": "assets/1.jpg",
+    "rating": 4,
+    "in_stock": true,
+    "best_seller": true
+  },
+  {
+    "id": 2,
+    "name": "ZEBRONICS Zeb-Thunder",
+    "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "price": 15,
+    "imageCover": "assets/3.jpg",
+    "rating": 3,
+    "in_stock": true,
+    "best_seller": false
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-CH520, Wireless",
+    "overview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "price": 30,
+    "imageCover": "assets/4.jpg",
+    "rating": 4,
+    "in_stock": true,
+    "best_seller": true
+  }
+]
